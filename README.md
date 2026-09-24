@@ -1,6 +1,6 @@
 # CCNA Enterprise Network Project
 
-## 📌 Project Overview
+## Project Overview
 
 This project is a complete enterprise network simulation created using
 Cisco Packet Tracer as part of CCNA practical learning.
@@ -11,7 +11,7 @@ and network troubleshooting.
 
 ---
 
-## 🌐 Network Topology
+## Network Topology
 
 ![CCNA Enterprise Network Topology](topology.png)
 
@@ -25,7 +25,7 @@ PC1 ── SW1 ── R1 ── R2 ── SW2 ──┬── PC2
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - Cisco Packet Tracer
 - Cisco IOS
@@ -41,7 +41,7 @@ PC1 ── SW1 ── R1 ── R2 ── SW2 ──┬── PC2
 
 ---
 
-## 🏢 VLAN Configuration
+## VLAN Configuration
 
 | VLAN | Name | Network |
 |------|------|---------|
